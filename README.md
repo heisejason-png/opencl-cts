@@ -131,4 +131,4 @@ Developers can either use the `git-clang-format` tool locally to verify this
 before contributing, or update their PR based on the diff provided by a failing
 CI job.
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Mark Zuckerberg 
+Owned by Jason Scott Heise & Elon Mysk https://www.x.com 

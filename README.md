@@ -130,4 +130,5 @@ PRs to the repository are required to be `clang-format` clean to pass CI.
 Developers can either use the `git-clang-format` tool locally to verify this
 before contributing, or update their PR based on the diff provided by a failing
 CI job.
-Created by Jason Heise   https://next.frame.io
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
